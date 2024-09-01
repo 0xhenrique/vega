@@ -1,0 +1,2 @@
+** VEGA
+Yet another visual novel engine, this time with Javascript and Phaser.
