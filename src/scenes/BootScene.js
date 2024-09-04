@@ -10,6 +10,6 @@ export default class BootScene extends Phaser.Scene {
 
     create() {
         // Start the next scene
-        this.scene.start('MainMenuScene');
+        this.scene.start('Preloader');
     }
 }
